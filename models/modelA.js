@@ -1,4 +1,4 @@
-Model an AIRPORT
+//Model Airport
 
 var denverInternational = {
   stateLocation: "Colorado",
